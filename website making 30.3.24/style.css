@@ -1,0 +1,146 @@
+*{
+    padding: 0%;
+    margin: auto;
+}
+
+.containerone{
+  background-image: url(images/banner.png);
+    width: 100%;
+    height: 100vh;
+
+}
+
+.titlebox{
+     width: 100%;
+    height: 10vh;
+    display: flex;
+}
+h1{
+    padding-top: 30px;
+
+}
+
+.titlebox h1{
+    color: white;
+}
+
+h2{
+    font-size:20px;
+    font-weight: 100;
+}
+
+.div{
+    display: flex;
+    
+}
+
+.divone{
+    
+
+height: 90vh;
+width: 40%;
+}
+
+.divone h4{
+    color: white;
+}
+
+h4{
+    padding-left: 70px;
+    padding-top: 50px;
+    color: white;
+}
+
+.divone h3{
+    padding-left: 120px;
+    padding-top: 300px;
+    font-size: 60px;
+    color: white;
+    
+}
+
+
+.download{
+    background-color: black;
+    color: white;
+    margin-top:50px ;
+    margin-left: 300px;
+    padding: 2px 2px 2px 2px;
+    border-radius: 10px;
+}
+
+.divtwo{
+
+    height: 90vh;
+    width: 40%;
+
+}
+
+#iphone{
+   width: 90%;
+   height: 90vh;
+
+}
+
+.divsectiontwo{
+    background-color: #282424;
+    width: 100%;
+    height: 120vh;
+    display: flex;
+    position: relative;
+
+}
+
+.orange{
+    background-color: #f47c1c;
+    padding-top: 90px;
+    height: 70vh;
+    width: 40%;
+
+}
+.imggirl{
+background-image: url(images/qt2.jpg);
+    height: 80vh;
+    width: 40%;
+    position: absolute;
+    top: 280px;
+    left: 600px;
+    
+}
+.questionsdivv{
+    background-color: #e0dcdc;
+    width: 20%;
+    height: 15vh;
+    position:absolute ;
+    top: 500px;
+    right: 200px;
+}
+
+#quality{
+    font-size: 30px;
+    font-weight: 400;
+    padding-left: 70px;
+}
+
+h6{
+    font-weight: 100;
+    font-style: normal;
+    padding-left: 9px;
+}
+
+/* divsectionthree */
+
+.divsectionthree{
+    background-color: #e0dcdc;
+    height: 70vh;
+    width: 100%;
+}
+.divsectionthree h5{
+font-size: 30px;
+padding-left: 800px;
+}
+
+.text{
+    font-size: 20px;
+padding-left: 160px;
+}
